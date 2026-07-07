@@ -1,0 +1,42 @@
+{
+  "identifier": "greenhouselog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Greenhouse Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "greenhouselog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks daily min/max charts and multi-greenhouse support.",
+              "displayName": "Greenhouse Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "greenhouselog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Greenhouse Log Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
